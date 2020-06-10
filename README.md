@@ -13,8 +13,7 @@
 
 ### Тест случаи според критериумот  Every statement 
 
-![alt text](https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/103984556_2920238314770397_1243826102101940244_n.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=DMIhzh8KZlsAX_LGWof&_nc_ht=scontent-vie1-1.xx&oh=6c90c6c9c3754c5daae98dee4ba1c155&oe=5F061407
-8)
+![alt text](https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/103984556_2920238314770397_1243826102101940244_n.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=DMIhzh8KZlsAX_LGWof&_nc_ht=scontent-vie1-1.xx&oh=6c90c6c9c3754c5daae98dee4ba1c155&oe=5F0614078)
 
 
 ### Тест случаи според критериумот Every path
